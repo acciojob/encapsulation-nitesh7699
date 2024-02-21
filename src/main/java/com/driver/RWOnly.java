@@ -3,7 +3,7 @@ import java.lang.*;
 
 public class RWOnly {
     
-    private String name;
+    private String name="Nitesh";
 
     public RWOnly(String name){
         this.name = name;
