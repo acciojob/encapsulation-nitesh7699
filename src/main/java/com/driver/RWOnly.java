@@ -5,9 +5,9 @@ public class RWOnly {
     
     private String name="Nitesh";
 
-    public RWOnly(String name){
-        this.name = name;
-    }
+    // public RWOnly(String name){
+    //     this.name = name;
+    // }
 
     public void setName(String name){
         this.name = name;
